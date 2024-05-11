@@ -14,12 +14,13 @@
 
 ### 1. 프로그램 전체 구성
 
-- buttonListener
-  - PosterButtonListener
-  * GenreButtonListener
-- project
 
-  - MovieManager
+- src
+  - buttonListener
+    - PosterButtonListener
+    * GenreButtonListener
+  - project
+    - MovieManager
 
 - MovieData
   - action
