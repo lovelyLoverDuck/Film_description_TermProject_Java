@@ -1,6 +1,6 @@
 # TermProject_Java
 
-## Description of the movie selection presented by each genre
+### Description of the movie selection presented by each genre
 
 - 목차
   1. 프로그램 전체 구성
